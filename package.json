@@ -1,0 +1,13 @@
+{
+  "name": "chartmaker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.65",
+    "chart.js": "^4.4.4",
+    "express": "^4.19.2"
+  }
+}
